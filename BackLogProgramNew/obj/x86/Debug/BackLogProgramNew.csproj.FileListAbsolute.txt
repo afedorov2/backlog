@@ -1,0 +1,9 @@
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\bin\x86\Debug\BackLogProgramNew.exe.config
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\bin\x86\Debug\BackLogDb.accdb
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\bin\x86\Debug\BackLogProgramNew.exe
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\bin\x86\Debug\BackLogProgramNew.pdb
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\obj\x86\Debug\BackLogProgramNew.Form1.resources
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\obj\x86\Debug\BackLogProgramNew.Properties.Resources.resources
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\obj\x86\Debug\BackLogProgramNew.csproj.GenerateResource.Cache
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\obj\x86\Debug\BackLogProgramNew.exe
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\obj\x86\Debug\BackLogProgramNew.pdb

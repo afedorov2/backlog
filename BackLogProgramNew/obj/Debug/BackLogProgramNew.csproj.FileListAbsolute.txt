@@ -1,0 +1,92 @@
+c:\users\artemka\documents\visual studio 2013\Projects\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.exe.config
+c:\users\artemka\documents\visual studio 2013\Projects\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.csprojResolveAssemblyReference.cache
+c:\users\artemka\documents\visual studio 2013\Projects\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.Form1.resources
+c:\users\artemka\documents\visual studio 2013\Projects\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.Properties.Resources.resources
+c:\users\artemka\documents\visual studio 2013\Projects\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.csproj.GenerateResource.Cache
+c:\users\artemka\documents\visual studio 2013\Projects\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.exe
+c:\users\artemka\documents\visual studio 2013\Projects\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.pdb
+c:\users\artemka\documents\visual studio 2013\Projects\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.exe
+c:\users\artemka\documents\visual studio 2013\Projects\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.pdb
+c:\users\artemka\documents\visual studio 2013\Projects\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogDb.accdb
+C:\Users\Artemka\Desktop\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.exe.config
+C:\Users\Artemka\Desktop\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.exe
+C:\Users\Artemka\Desktop\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.pdb
+C:\Users\Artemka\Desktop\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogDb.accdb
+C:\Users\Artemka\Desktop\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.exe
+C:\Users\Artemka\Desktop\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.pdb
+C:\Users\Artemka\Desktop\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.csprojResolveAssemblyReference.cache
+C:\Users\Artemka\Desktop\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.Form1.resources
+C:\Users\Artemka\Desktop\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.Properties.Resources.resources
+C:\Users\Artemka\Desktop\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.csproj.GenerateResource.Cache
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.exe.config
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.exe
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.pdb
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.exe
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.pdb
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.csprojResolveAssemblyReference.cache
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.Form1.resources
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.Properties.Resources.resources
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.csproj.GenerateResource.Cache
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\bin\Debug\MetroFramework.Design.dll
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\bin\Debug\MetroFramework.dll
+C:\Users\Aleksey\Desktop\Арсентьев\BackLogProgramNew\BackLogProgramNew\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Анастасия\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.exe.config
+C:\Users\Анастасия\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.exe
+C:\Users\Анастасия\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.pdb
+C:\Users\Анастасия\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.Form1.resources
+C:\Users\Анастасия\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.csproj.GenerateResource.Cache
+C:\Users\Анастасия\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.exe
+C:\Users\Анастасия\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.pdb
+C:\Users\Анастасия\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\bin\Debug\MetroFramework.Design.dll
+C:\Users\Анастасия\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\bin\Debug\MetroFramework.dll
+C:\Users\Анастасия\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Aleksey\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.exe.config
+C:\Users\Aleksey\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.exe
+C:\Users\Aleksey\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.pdb
+C:\Users\Aleksey\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.exe
+C:\Users\Aleksey\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.pdb
+C:\Users\Aleksey\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\bin\Debug\MetroFramework.Design.dll
+C:\Users\Aleksey\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\bin\Debug\MetroFramework.dll
+C:\Users\Aleksey\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Aleksey\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.csprojResolveAssemblyReference.cache
+C:\Users\Aleksey\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.Form1.resources
+C:\Users\Aleksey\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.Properties.Resources.resources
+C:\Users\Aleksey\Desktop\BackLogProgramNew-09.05(всё)[1]\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.csproj.GenerateResource.Cache
+C:\Users\Aleksei\Desktop\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.exe.config
+C:\Users\Aleksei\Desktop\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.exe
+C:\Users\Aleksei\Desktop\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.pdb
+C:\Users\Aleksei\Desktop\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.exe
+C:\Users\Aleksei\Desktop\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.pdb
+C:\Users\Aleksei\Desktop\BackLogProgramNew\BackLogProgramNew\bin\Debug\MetroFramework.Design.dll
+C:\Users\Aleksei\Desktop\BackLogProgramNew\BackLogProgramNew\bin\Debug\MetroFramework.dll
+C:\Users\Aleksei\Desktop\BackLogProgramNew\BackLogProgramNew\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Aleksei\Desktop\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.csprojResolveAssemblyReference.cache
+C:\Users\Aleksei\Desktop\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.Form1.resources
+C:\Users\Aleksei\Desktop\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.Properties.Resources.resources
+C:\Users\Aleksei\Desktop\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.csproj.GenerateResource.Cache
+C:\Users\Aleksey\Desktop\111\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.exe.config
+C:\Users\Aleksey\Desktop\111\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.exe
+C:\Users\Aleksey\Desktop\111\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.pdb
+C:\Users\Aleksey\Desktop\111\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.exe
+C:\Users\Aleksey\Desktop\111\BackLogProgramNew\BackLogProgramNew\bin\Debug\BackLogProgramNew.pdb
+C:\Users\Aleksey\Desktop\111\BackLogProgramNew\BackLogProgramNew\bin\Debug\MetroFramework.Design.dll
+C:\Users\Aleksey\Desktop\111\BackLogProgramNew\BackLogProgramNew\bin\Debug\MetroFramework.dll
+C:\Users\Aleksey\Desktop\111\BackLogProgramNew\BackLogProgramNew\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Aleksey\Desktop\111\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.csprojResolveAssemblyReference.cache
+C:\Users\Aleksey\Desktop\111\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.Form1.resources
+C:\Users\Aleksey\Desktop\111\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.Properties.Resources.resources
+C:\Users\Aleksey\Desktop\111\BackLogProgramNew\BackLogProgramNew\obj\Debug\BackLogProgramNew.csproj.GenerateResource.Cache
+C:\Users\Aleksei\Desktop\BackLog_27.05\BackLogProgramNew\bin\Debug\BackLogProgramNew.exe.config
+C:\Users\Aleksei\Desktop\BackLog_27.05\BackLogProgramNew\obj\Debug\BackLogProgramNew.exe
+C:\Users\Aleksei\Desktop\BackLog_27.05\BackLogProgramNew\obj\Debug\BackLogProgramNew.pdb
+C:\Users\Aleksei\Desktop\BackLog_27.05\BackLogProgramNew\bin\Debug\BackLogProgramNew.exe
+C:\Users\Aleksei\Desktop\BackLog_27.05\BackLogProgramNew\bin\Debug\BackLogProgramNew.pdb
+C:\Users\Aleksei\Desktop\BackLog_27.05\BackLogProgramNew\bin\Debug\MetroFramework.Design.dll
+C:\Users\Aleksei\Desktop\BackLog_27.05\BackLogProgramNew\bin\Debug\MetroFramework.dll
+C:\Users\Aleksei\Desktop\BackLog_27.05\BackLogProgramNew\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Aleksei\Desktop\BackLog_27.05\BackLogProgramNew\obj\Debug\BackLogProgramNew.csprojResolveAssemblyReference.cache
+C:\Users\Aleksei\Desktop\BackLog_27.05\BackLogProgramNew\obj\Debug\BackLogProgramNew.Form1.resources
+C:\Users\Aleksei\Desktop\BackLog_27.05\BackLogProgramNew\obj\Debug\BackLogProgramNew.Properties.Resources.resources
+C:\Users\Aleksei\Desktop\BackLog_27.05\BackLogProgramNew\obj\Debug\BackLogProgramNew.csproj.GenerateResource.Cache
